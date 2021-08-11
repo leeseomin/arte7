@@ -1,6 +1,6 @@
 # arte7
 
- <img src="https://github.com/leeseomin/arte7/blob/main/out/399out.png" width="1600">
+ <img src="https://github.com/leeseomin/arte7/blob/main/out/399c.png" width="2000">
 
 
 
