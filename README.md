@@ -68,17 +68,6 @@ https://drive.google.com/file/d/17LY2aN8OiH6f0ebwlCW4armlsfmVnaZD/view?usp=shari
 
 ###  Results
 
-### input image1
- <img src="https://github.com/leeseomin/arte3/blob/main/s/seed0335.png" width="500">
- 
-### output image1
- <img src="https://github.com/leeseomin/arte7/blob/main/out/335a.png" width="2000">
- <img src="https://github.com/leeseomin/arte7/blob/main/out/335b.png" width="2000">
- <img src="https://github.com/leeseomin/arte7/blob/main/out/335c.png" width="2000">
-  <img src="https://github.com/leeseomin/arte7/blob/main/out/335d.png" width="2000">
-
-
-
 
 ### input image2
  <img src="https://github.com/leeseomin/arte3/blob/main/s/seed0399.png" width="500">
@@ -89,6 +78,14 @@ https://drive.google.com/file/d/17LY2aN8OiH6f0ebwlCW4armlsfmVnaZD/view?usp=shari
  <img src="https://github.com/leeseomin/arte7/blob/main/out/399c.png" width="2000">
  <img src="https://github.com/leeseomin/arte7/blob/main/out/399d.png" width="2000">
 
+
+### input image1
+ <img src="https://github.com/leeseomin/arte3/blob/main/s/seed0335.png" width="500">
+ 
+### output image1
+ <img src="https://github.com/leeseomin/arte7/blob/main/out/335a.png" width="2000">
+ <img src="https://github.com/leeseomin/arte7/blob/main/out/335b.png" width="2000">
+ <img src="https://github.com/leeseomin/arte7/blob/main/out/335c.png" width="2000">
 
 
  
