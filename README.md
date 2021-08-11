@@ -76,7 +76,7 @@ https://drive.google.com/file/d/17LY2aN8OiH6f0ebwlCW4armlsfmVnaZD/view?usp=shari
 ### output image2
  <img src="https://github.com/leeseomin/arte7/blob/main/out/399a.png" width="2000">
  <img src="https://github.com/leeseomin/arte7/blob/main/out/399b.png" width="2000">
- <img src="https://github.com/leeseomin/arte7/blob/main/out/399c.png" width="2000">
+ <img src="https://github.com/leeseomin/arte7/blob/main/out/399h.png" width="2000">
  <img src="https://github.com/leeseomin/arte7/blob/main/out/399d.png" width="2000">
 
 
