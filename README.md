@@ -2,6 +2,16 @@
 
  <img src="https://github.com/leeseomin/arte7/blob/main/out/399b.png" width="2000">
 
+### Dependency install on m1 mac
+```
+brew install imagemagick
+brew install gmic
+gmic up   (gmic update)
+brew install parallel
+
+if error installing :
+xcode-select --install
+```
 
 
 ### Dependency install on ubuntu 20.04 
